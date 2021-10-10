@@ -1,0 +1,39 @@
+h1 {
+    color:red;
+    text-align: center;
+    font-size: 64px;
+}
+
+a {
+    color: red;
+}
+
+p, h1, ul {
+    
+    
+}
+
+p {
+    color: black;
+    font: Gluten;
+    font-size: 18px;
+}
+
+* {
+    background-color: white;
+}
+
+#motto {
+    font-size: 20;
+    font-style: italic;
+    padding: 2px 5px;
+    border-top: solid blue 0px;
+    border-right: solid brown 20px;
+    border-bottom: solid brown 20px;
+    border-left: solid brown 0px;
+    border-radius: 25px;
+}
+
+.para {
+    background-color: white;
+}
